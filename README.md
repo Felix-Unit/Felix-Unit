@@ -38,7 +38,7 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 10px;">
 
   <div style="flex: 1; width: 50%;">
-        <img align="left" width="90%" alt="Top Langs" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Felix-Unit&layout=compact&theme=tokyonight&hide_border=false&langs_count=6">
+        <img align="left" width="50%" alt="Top Langs" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Felix-Unit&layout=compact&theme=tokyonight&hide_border=false&langs_count=6">
   </div>
   <div style="flex: 1; width: 50%; text-align: left; margin-left: 10px;">
         <p>
