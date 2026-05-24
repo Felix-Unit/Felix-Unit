@@ -1,71 +1,72 @@
-<h1 align="left"> Welcome to my profile </h1>
-
-<p align="left"> My name is <strong>Sebastião Felix</strong>, and I'm a Software Engineer from São Paulo, Brazil. </p>
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Crafting scalable code and tackling bugs in JavaScript.<br><br>📚 Currently diving deep into MongoDB and PostgreSQL for Full-Stack development.<br><br>🎯 My goal is to build clean, standardized, and scalable systems.<br><br>🎲 I'm an avid fan of philosophy, neuroscience, and Minecraft.</p>
-
-###
-
-## 🛠 &nbsp;Tech Stack
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
-
-##
-
-<div>
-  <a href="https://github.com/Felix-Unit">
-  <img height = "220em" src = "https://github-readme-stats.vercel.app/api?username=Raposa-Dev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" />
-  <img height = "220em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Raposa-Dev&theme=synthwave" />
-</div>
-
-###
-
-<!-- <img src="https://raw.githubusercontent.com/Raposa-Dev/Raposa-Dev/output/snake.svg" alt="Snake animation" /> -->
-
-###
+<div align="center">
   
-<h3>Meus projetos.</h3>
+  <a rel="noopener noreferrer" href="https://www.felix-unit.com.br">
+    <img src="assets/header.png" alt="Meu Banner" width="100%">
+  </a>
+</div>
 
-[Portifolio](https://www.felix-unit.com.br)
+<div align="center">
+  <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50px" style="vertical-align: middle;"> Oie, sou Sebastião Felix! </h1>
+  <h3>Software Engineering Student. </h3>
+  <p>Apaixonado por arquiteturas escaláveis, ecossistema Linux minimalista e automação. Priorizo Clean Code, princípios SOLID e Domain-Driven Design (DDD) em cada linha de código.</p>
+  <h4>Junior Developer | TypeScript • Node.js • Express • Prisma • Shell Script • Linux</h4>
+</div>
 
- 
-<!--
-**Felix-Unit/Felix-Unit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Felix-Unit&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Backend</b><br><img src="https://skillicons.dev/icons?i=c,nodejs,express,ts,js,postgres" /></td>
+      <td align="center"><b>DevOps & Sysadmin</b><br><img src="https://skillicons.dev/icons?i=linux,debian,bash,docker,ansible" /></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Tools</b><br><img src="https://skillicons.dev/icons?i=git,vscode,vscodium" /></td>
+      <td align="center"><b>Front-End</b><br><img src="https://skillicons.dev/icons?i=html,css,react" /></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 10px;">
+
+  <div style="flex: 1; width: 50%;">
+        <img align="left" width="90%" alt="Top Langs" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Felix-Unit&layout=compact&theme=tokyonight&hide_border=false&langs_count=6">
+  </div>
+
+  <div style="flex: 1; width: 50%; text-align: left; margin-left: 10px;">
+        <h3>Conecte se comigo</h3>
+        <p>
+            <a href="https://linkedin.com/in/seu-linkedin" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="LinkedIn">
+            </a>
+            <a href="https://codeberg.org/" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg">
+            </a>
+        </p>
+        
+  <h3>Alguns fatos</h3>
+        <ul>
+            <li>Fã de carteirinha de ambientes Linux minimalistas (EX:Debian + i3wm).</li>
+            <li>No tempo livre, estou programando jogos 2D e estudando psicologia.</li>
+            <li>Minha trilha sonora para codar varia entre muito Melodic Death Metal e Metalcore.</li>
+        </ul>
+        
+  <h3>💡 Minha Abordagem</h3>
+        <p>
+          Acredito que o bom software é aquele estruturado para sobreviver ao tempo. Não procuro apenas resolver problemas com código correndo, mas sim projetar arquiteturas limpas, bem documentadas com o Modelo C4 e com uma divisão clara de responsabilidades.
+        </p> 
+        
+  <h3>🧑‍💻 Sobre Mim</h3>
+        <p>
+          Estudante de Engenharia de Software. Passo grande parte do meu tempo escrevendo scripts em Bash para automatizar o sistema operacional, configurando containers no meu Home Lab rodando Podman ou desenhando mecânicas de jogos baseadas em interações humanas e sociologicas.
+        </p>
+    </div>
+</div>
