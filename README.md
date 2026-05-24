@@ -40,14 +40,12 @@
   <div style="flex: 1; width: 50%;">
         <img align="left" width="90%" alt="Top Langs" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Felix-Unit&layout=compact&theme=tokyonight&hide_border=false&langs_count=6">
   </div>
-
   <div style="flex: 1; width: 50%; text-align: left; margin-left: 10px;">
-        <h3>Conecte se comigo</h3>
         <p>
-            <a href="https://linkedin.com/in/seu-linkedin" target="_blank" style="text-decoration: none;">
+            <a href="https://www.linkedin.com/in/sebasti%C3%A3o-felix-2272181a6/" target="_blank" style="text-decoration: none;">
                 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="LinkedIn">
             </a>
-            <a href="https://codeberg.org/" target="_blank" style="text-decoration: none;">
+            <a href="https://v15.next.forgejo.org/Felix-Unit" target="_blank" style="text-decoration: none;">
                 <img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg">
             </a>
         </p>
