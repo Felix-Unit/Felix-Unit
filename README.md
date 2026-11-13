@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50px" style="vertical-align: middle;"> </h1>
+
   <h3>Software Engineering Student. </h3>
   <p>Apaixonado por arquiteturas escaláveis, ecossistema Linux minimalista e automação. Priorizo Clean Code, princípios SOLID e Domain-Driven Design (DDD) em cada linha de código.</p>
   <h4>Junior Developer | TypeScript • Node.js • Express • Prisma • Shell Script • Linux</h4>
